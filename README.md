@@ -1,0 +1,2 @@
+# springcolud-config
+config center
