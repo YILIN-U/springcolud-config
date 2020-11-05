@@ -15,3 +15,8 @@ eureka:
   instance:
     prefer-ip-address: true
     hostname: localhost
+jwt:
+  secret: mySecret
+  expiration: 1800
+  tokenHead: bearer
+  tokenHeader: Authorization
